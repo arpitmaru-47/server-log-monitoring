@@ -1,0 +1,3 @@
+2026-10-13 15:56:57,964 INFO: web-01 CPU is normal: 45%
+2026-10-13 15:56:57,964 WARNING: web-02 CPU is high: 85%
+2026-10-13 15:56:57,965 ERROR: db-01 CPU is critical: 95%
