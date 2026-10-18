@@ -5,7 +5,7 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s %(levelname)s: %(message)s"
 )
-
+ 
 servers = [
     {"name": "web-01", "cpu": 45},
     {"name": "web-02", "cpu": 85},
